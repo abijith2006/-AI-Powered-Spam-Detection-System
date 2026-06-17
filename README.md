@@ -12,6 +12,8 @@ Identifies suspicious and phishing URLs
 Real-time prediction and analysis
 Confidence score visualization
 Detailed probability breakdown
+
+
 🎨 Modern User Interface
 Cyber-security inspired dark theme
 Light blue gradient headings
@@ -19,6 +21,9 @@ Deep red spam alerts
 Light green safe message indicators
 Responsive design for desktop and mobile
 Smooth animations and hover effects
+
+
+
 📊 Dashboard & Analytics
 Total scans counter
 Spam detection statistics
@@ -27,11 +32,15 @@ Scan history with timestamps
 Search and filter functionality
 Delete individual records
 Refresh history instantly
+
+
 🔒 Security Features
 Input sanitization
 Configurable rate limiting
 CORS support
-Secure SQLite database storage
+Secure SQLite database 
+
+storage
 Local data processing
 ⚡ Deployment Benefits
 Single-file deployment
@@ -39,6 +48,8 @@ No external servers required
 Built-in HTTP server
 Auto port detection
 Lightweight and fast
+
+
 🛠️ Tech Stack
 Backend
 Technology	Version	Purpose
@@ -53,17 +64,3 @@ Random Forest Classifier
 TF-IDF Vectorization
 Text Feature Extraction
 URL Analysis Engine
-📂 Project Structure
-AI-Spam-Detection/
-│
-├── app.py
-├── spam_model.pkl
-├── vectorizer.pkl
-├── spam_detection.db
-├── requirements.txt
-├── README.md
-│
-└── static/
-    ├── index.html
-    ├── style.css
-    └── script.js
